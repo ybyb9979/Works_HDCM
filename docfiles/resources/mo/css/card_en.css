@@ -6,7 +6,7 @@ html[lang="en"] .w100 {width:100% !important;}
 html[lang="en"] .img_w100 img {width: 100px !important;}
 .mt2 {margin-top:2px !important;}
 
-html[lang="en"].sub_card .ico_tip2.w24 {background: url(/docfiles/resources/mo/images/com/icon/w24/ico_tip.png) no-repeat 50% 50%;}
+html[lang="en"].sub_card .ico_tip2.w24 {background: url(../../../../docfiles/resources/mo/images/com/icon/w24/ico_tip.png) no-repeat 50% 50%;}
 
 html[lang="en"] .form_items.en_card { margin-top: 0; }
 html[lang="en"] .form_items.en_card .cert { margin-top: 0; }
@@ -22,7 +22,7 @@ html[lang="en"] .input_cell_box.full.completed .input_cell + .input_cell,
 html[lang="en"] .input_cell_box.full.completed .input_cell + .input_cell + .input_cell { opacity: 1; }
 
 html[lang="en"] .box_terms_wrap.error .agree_wrap [class*="box_chk"] .check_label { color: #f00; }
-html[lang="en"] .box_terms_wrap.error .agree_wrap [class*="box_chk"] .check_input + .check_label::before { background-image: url(/docfiles/resources/mo/images/com/icon/w32/ico_check_b_red.png); opacity: 1; }
+html[lang="en"] .box_terms_wrap.error .agree_wrap [class*="box_chk"] .check_input + .check_label::before { background-image: url(../../../../docfiles/resources/mo/images/com/icon/w32/ico_check_b_red.png); opacity: 1; }
 
 html[lang="en"] .box_select.error { border-color: #f00; }
 html[lang="en"] .box_select.error select { color: #f00; }
@@ -95,7 +95,7 @@ html[lang="en"] .check_alert img {width:100%;}
 
 
 /* 카드상세 - 연회비팝업 Q10510 */
-html[lang="en"] .membership_fee .btn_pop_arrow {display: inline-block; position: absolute; top: 16px; right: 15px; z-index: 2; width: 24px; height: 24px; background: url(/docfiles/resources/mo/images/com/icon/w24/ico_arrowB_forward.png) no-repeat 50% 50%; background-size: 24px 24px;}
+html[lang="en"] .membership_fee .btn_pop_arrow {display: inline-block; position: absolute; top: 16px; right: 15px; z-index: 2; width: 24px; height: 24px; background: url(../../../../docfiles/resources/mo/images/com/icon/w24/ico_arrowB_forward.png) no-repeat 50% 50%; background-size: 24px 24px;}
 html[lang="en"] .membership_fee .btn_pop_arrow + .membership_brand {margin-top: 15px;}
 html[lang="en"] .modal_pop.card_fee_pop .card_fee_wrap .card_fee_list li { padding: 16px 0; position: relative; border-top: 1px solid rgba(0,0,0,0.04);}
 html[lang="en"] .modal_pop.card_fee_pop .card_fee_wrap .card_fee_list li:first-child { border-top: none; }

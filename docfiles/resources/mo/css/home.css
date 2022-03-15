@@ -4,7 +4,7 @@
 .section .btn40_outline{display:flex;border-radius:30px;width:112px;align-items:center;border-color:#858585;justify-content:center;height:40px;margin:32px auto 40px}
 .section.event .btn40_outline{width:124px;margin:8px auto 0}
 .header.main_header h1{height:64px;}
-.header.main_header .btn_custom{width:36px;height:36px;top:14px;right:16px;background:url('/docfiles/resources/mo/images/com/icon/others/home_topbar_henry.png') no-repeat center center/36px;border:none;}
+.header.main_header .btn_custom{width:36px;height:36px;top:14px;right:16px;background:url('../../../../docfiles/resources/mo/images/com/icon/others/home_topbar_henry.png') no-repeat center center/36px;border:none;}
 .header.main_header .btn_custom img{display:none;}
 .header.main_header .btn_Menu{top:16px;left:16px}
 .h3_eb_lt + p{margin-top:12px;}
@@ -15,7 +15,7 @@
 .main_banner .app_thumb , .menu_in .app_thumb{margin-right:16px;width:48px;height:48px;}
 .main_banner .app_thumb img, .menu_in .app_thumb img{width:100%;}
 .banner_finder{position:relative;margin:36px 0; display:block;border-bottom:1px solid #ebebeb;}
-.banner_finder:before {position:absolute; top:50%; left:0; transform:translateY(-50%); width:64px; height:64px; background-color:#000;background-size:64px 64px;mask-image:url('/docfiles/resources/mo/images/com/svg/ico_sd_002.svg');-webkit-mask-image:url('/docfiles/resources/mo/images/com/svg/ico_sd_002.svg'); content:'';}
+.banner_finder:before {position:absolute; top:50%; left:0; transform:translateY(-50%); width:64px; height:64px; background-color:#000;background-size:64px 64px;mask-image:url('../../../../docfiles/resources/mo/images/com/svg/ico_sd_002.svg');-webkit-mask-image:url('../../../../docfiles/resources/mo/images/com/svg/ico_sd_002.svg'); content:'';}
 .banner_finder a{display:block;padding:10px 0 20px 64px;}
 .banner_finder a .p2_m_lt{margin-top:2px;}
 
@@ -102,15 +102,15 @@
 
 .launching .layer_body{padding:0;}
 .launching .layer_close{top:-40px;right:8px;}
-.launching .layer_close a{background:url(/docfiles/publish/resources/mo/images/com/icon/w32/ico_close_wht.png) no-repeat 50% 50% / 32px}
+.launching .layer_close a{background:url(../../../../docfiles/publish/resources/mo/images/com/icon/w32/ico_close_wht.png) no-repeat 50% 50% / 32px}
 .launching .box_content .con{padding:56px 24px 32px}
 .launching .box_content .con .box_btn{margin-top:20px;}
 .launching .box_content .img{position:absolute;right:0;bottom:0;width:146px}
 .launching .box_content .img img{max-width:100%;}
 .launching .not_see{position:absolute;left:12px;top:-40px}
 .launching .not_see label{display:flex;align-items:center;line-height:32px;}
-.launching .not_see label:before{content:'';width:32px;height:32px;display:block;margin-right:4px;background:url(/docfiles/publish/resources/mo/images/com/icon/w32/ico_checkbox_off_wht.png) no-repeat 50% 50% / 32px}
-.launching .not_see input:checked + label:before{content:'';width:32px;height:32px;display:block;margin-right:4px;background:url(/docfiles/publish/resources/mo/images/com/icon/w32/ico_checkbox_on_wht.png) no-repeat 50% 50% / 32px}
+.launching .not_see label:before{content:'';width:32px;height:32px;display:block;margin-right:4px;background:url(../../../../docfiles/publish/resources/mo/images/com/icon/w32/ico_checkbox_off_wht.png) no-repeat 50% 50% / 32px}
+.launching .not_see input:checked + label:before{content:'';width:32px;height:32px;display:block;margin-right:4px;background:url(../../../../docfiles/publish/resources/mo/images/com/icon/w32/ico_checkbox_on_wht.png) no-repeat 50% 50% / 32px}
 
 /*
  * Dark Mode
